@@ -4,7 +4,7 @@
   "description": "Provides a library for dealing with client-side file download",
   "majorVersion": 1,
   "minorVersion": 0,
-  "patchVersion": 2,
+  "patchVersion": 3,
   "runnable": 0,
   "machineName": "downloadify",
   "preloadedJs": [
